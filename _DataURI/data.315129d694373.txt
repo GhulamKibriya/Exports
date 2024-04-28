@@ -1,0 +1,1 @@
+chrome-extension://okfkdaglfjjjfefdcppliegebpoegaii/assets/extensionConfig-2f8020b2.js
